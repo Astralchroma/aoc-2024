@@ -1,0 +1,6 @@
+/.direnv
+/.idea
+
+/.devenv*
+/devenv.local.nix
+/target
